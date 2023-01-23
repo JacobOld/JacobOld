@@ -12,7 +12,7 @@
 
 ---
 
-:technologist: About Me :
+:computer: About Me :
 I am a University student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from England.
 - :battery: I’m currently working on the frontend and backend of a social media web application.
 
